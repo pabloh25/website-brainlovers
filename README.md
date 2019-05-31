@@ -2,10 +2,11 @@
 Projeto do curso da ETEC - Website institucional
 
 
-<h2>ATIVIDADE AVALIATIVA</h2>
+<h2>Atividade avaliativa</h2>
 
 <ol>
-	<li>Tecnologias obrigatórias</li>
+	<li>Desenvolver um website institucional do grupo do projeto</li>
+	<li>Tecnologias que serão utilizadas</li>
 	<ul>
 		<li>html5</li>
 		<li>css3</li>
