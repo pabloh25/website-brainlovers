@@ -6,14 +6,14 @@ Projeto do curso da ETEC - Website institucional
 
 <ol>
 	<li>Criar um website institucional da empresa (grupo) do projeto</li>
-	<li>Tecnologias obrigatórias</li>
+	<li>Tecnologias utilizadas</li>
 	<ul>
-		<li>html5</li>
-		<li>css3</li>
-		<li>jquery</li>
-		<li>google fonts</li>
-		<li>font awesome</li>
-		<li>facebook meta tags</li>
-		<li>google meta tags</li>
+		<li>HTML5</li>
+		<li>CSS3</li>
+		<li>jQuery 3.4.1</li>
+		<li>Font Awesome 5.8.</li>
+		<li>Google Fonts</li>
+		<li>Facebook meta tags</li>
+		<li>Google meta tags</li>
 	</ul>
 <ol>
